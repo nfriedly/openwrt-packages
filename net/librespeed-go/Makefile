@@ -39,10 +39,10 @@ define Package/librespeed-go
 endef
 
 define Package/librespeed-go/description
-  No Flash, No Java, No WebSocket, No Bullshit.
-
   This is a very lightweight speed test implemented in JavaScript,
   using XMLHttpRequest and Web Workers.
+
+  No Flash, No Java, No WebSocket, No Bullshit.
 endef
 
 define Package/librespeed-go/conffiles
